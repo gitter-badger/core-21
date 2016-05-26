@@ -1,0 +1,2 @@
+# core
+Feedrio Core
